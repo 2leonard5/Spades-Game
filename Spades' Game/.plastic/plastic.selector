@@ -1,0 +1,4 @@
+repository "Spades- Game/Spades- Game@7972454692944@cloud"
+  path "/"
+    br "/main"
+    co "/main"
