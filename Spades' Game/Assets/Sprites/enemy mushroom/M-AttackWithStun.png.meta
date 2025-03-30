@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: 00ed40967275c5a42a2a66b7ddd7cd3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3448498158709349883
+    second: M-AttackWithStun_0
+  - first:
+      213: -3447136025298880287
+    second: M-AttackWithStun_1
+  - first:
+      213: 3647739288299566420
+    second: M-AttackWithStun_2
+  - first:
+      213: -8229716617358945046
+    second: M-AttackWithStun_3
+  - first:
+      213: 6750123581816897177
+    second: M-AttackWithStun_4
+  - first:
+      213: -5960245738374703033
+    second: M-AttackWithStun_5
+  - first:
+      213: -2198162182280581874
+    second: M-AttackWithStun_6
+  - first:
+      213: -1425512395430537712
+    second: M-AttackWithStun_7
+  - first:
+      213: 9135305242340957800
+    second: M-AttackWithStun_8
+  - first:
+      213: -443889445020435906
+    second: M-AttackWithStun_9
+  - first:
+      213: -8224316292576200410
+    second: M-AttackWithStun_10
+  - first:
+      213: -2974479216735123696
+    second: M-AttackWithStun_11
+  - first:
+      213: -948358115946664655
+    second: M-AttackWithStun_12
+  - first:
+      213: 7748408902104812316
+    second: M-AttackWithStun_13
+  - first:
+      213: -7469973574315682425
+    second: M-AttackWithStun_14
+  - first:
+      213: -8801337608688045608
+    second: M-AttackWithStun_15
+  - first:
+      213: -9087167816982907895
+    second: M-AttackWithStun_16
+  - first:
+      213: 8439346468008978342
+    second: M-AttackWithStun_17
+  - first:
+      213: 2359255828253212314
+    second: M-AttackWithStun_18
+  - first:
+      213: -4610481168621838220
+    second: M-AttackWithStun_19
+  - first:
+      213: -769987793023066003
+    second: M-AttackWithStun_20
+  - first:
+      213: -3352845232939398765
+    second: M-AttackWithStun_21
+  - first:
+      213: -218835608198717454
+    second: M-AttackWithStun_22
+  - first:
+      213: 3963177217233961826
+    second: M-AttackWithStun_23
+  - first:
+      213: 4187103971846628332
+    second: M-AttackWithStun_24
+  - first:
+      213: 5965786759853786348
+    second: M-AttackWithStun_25
+  - first:
+      213: -6866448540013103875
+    second: M-AttackWithStun_26
+  - first:
+      213: 2166345666028233212
+    second: M-AttackWithStun_27
+  - first:
+      213: -3073548336211314603
+    second: M-AttackWithStun_28
+  - first:
+      213: 4569864440709150006
+    second: M-AttackWithStun_29
+  - first:
+      213: -7591907604178849005
+    second: M-AttackWithStun_30
+  - first:
+      213: 2665435460560858310
+    second: M-AttackWithStun_31
+  - first:
+      213: -5049092371439597031
+    second: M-AttackWithStun_32
+  - first:
+      213: 8419377471357651123
+    second: M-AttackWithStun_33
+  - first:
+      213: -6848601543356272788
+    second: M-AttackWithStun_34
+  - first:
+      213: 3893256760617111803
+    second: M-AttackWithStun_35
+  - first:
+      213: -1636851468239264890
+    second: M-AttackWithStun_36
+  - first:
+      213: 2422519901715897483
+    second: M-AttackWithStun_37
+  - first:
+      213: -3781682015873046043
+    second: M-AttackWithStun_38
+  - first:
+      213: -7972936691364943295
+    second: M-AttackWithStun_39
+  - first:
+      213: 4974813998830593116
+    second: M-AttackWithStun_40
+  - first:
+      213: -586451857300109264
+    second: M-AttackWithStun_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: M-AttackWithStun_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd957eedc68bdf20800000000000000
+      internalID: 3448498158709349883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_1
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8bb977c005920d0800000000000000
+      internalID: -3447136025298880287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_2
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455f4506e8f5f9230800000000000000
+      internalID: 3647739288299566420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_3
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 33
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4d034e65c2acd80800000000000000
+      internalID: -8229716617358945046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_4
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99efe2c42a14dad50800000000000000
+      internalID: 6750123581816897177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 34
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748d3266414f84da0800000000000000
+      internalID: -5960245738374703033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_6
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0de77e342f8e71e0800000000000000
+      internalID: -2198162182280581874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_7
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 32
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016527f6700973ce0800000000000000
+      internalID: -1425512395430537712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_8
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 32
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e1f7c87bf17ce70800000000000000
+      internalID: 9135305242340957800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_9
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3af20ec6ecf6d9f0800000000000000
+      internalID: -443889445020435906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_10
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 34
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b98cf7eb5ddd80800000000000000
+      internalID: -8224316292576200410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_11
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 33
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01788be69e688b6d0800000000000000
+      internalID: -2974479216735123696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_12
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 33
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13de3237151c6d2f0800000000000000
+      internalID: -948358115946664655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_13
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 33
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b8e68f7d0e78b60800000000000000
+      internalID: 7748408902104812316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_14
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785db5d9c92555890800000000000000
+      internalID: -7469973574315682425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_15
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 34
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1fcdd831e5bd580800000000000000
+      internalID: -8801337608688045608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_16
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9043f5e2405e3e180800000000000000
+      internalID: -9087167816982907895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_17
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 32
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a76f1a26e49e1570800000000000000
+      internalID: 8439346468008978342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_18
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 32
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e7d490da2cdb020800000000000000
+      internalID: 2359255828253212314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_19
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 32
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470eaa4fdc74400c0800000000000000
+      internalID: -4610481168621838220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_20
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 34
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60297b8e247055f0800000000000000
+      internalID: -769987793023066003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_21
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39909c7560d4871d0800000000000000
+      internalID: -3352845232939398765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_22
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffdb1d7c2a86fcf0800000000000000
+      internalID: -218835608198717454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263c6276ea8000730800000000000000
+      internalID: 3963177217233961826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3ab8fc0e49b1a30800000000000000
+      internalID: 4187103971846628332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce440d2337bbac250800000000000000
+      internalID: 5965786759853786348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4f400de6975b0a0800000000000000
+      internalID: -6866448540013103875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_27
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1e15cc7e7601e10800000000000000
+      internalID: 2166345666028233212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_28
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558b12492109855d0800000000000000
+      internalID: -3073548336211314603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_29
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63578242f7b6b6f30800000000000000
+      internalID: 4569864440709150006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_30
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3133555f14024a690800000000000000
+      internalID: -7591907604178849005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_31
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cca576ed678df420800000000000000
+      internalID: 2665435460560858310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_32
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a453a4d350ee9b0800000000000000
+      internalID: -5049092371439597031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_33
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b80332d333a7d470800000000000000
+      internalID: 8419377471357651123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_34
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fae088e21e4f0a0800000000000000
+      internalID: -6848601543356272788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_35
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf098fb7560a70630800000000000000
+      internalID: 3893256760617111803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_36
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683a585134cb849e0800000000000000
+      internalID: -1636851468239264890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_37
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c171bf3058e9120800000000000000
+      internalID: 2422519901715897483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_38
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e967662e34c48bc0800000000000000
+      internalID: -3781682015873046043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_39
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aa38652507a5190800000000000000
+      internalID: -7972936691364943295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_40
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5420f769f61a0540800000000000000
+      internalID: 4974813998830593116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M-AttackWithStun_41
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03842c794218cd7f0800000000000000
+      internalID: -586451857300109264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

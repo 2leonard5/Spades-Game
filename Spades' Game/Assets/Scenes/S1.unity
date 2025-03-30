@@ -383,6 +383,147 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96997c57706b7514cbe498576cc96064, type: 3}
+--- !u!1 &1242790928 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 532123865238269634, guid: 0f0397607696c9e418492dce8a78a010, type: 3}
+  m_PrefabInstance: {fileID: 6766719854245166170}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1242790934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242790928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 662811c17146c254fa2ca856af2dac24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+--- !u!90 &1321398779
+Avatar:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Automatic Avatar
+  m_AvatarSize: 500
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        m_ID: 00000000
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 4.92, y: -2.33, z: -0.08222853}
+          q: {x: -0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 4.92, y: -2.33, z: -0.08222853}
+          q: {x: -0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_SkeletonNameIDArray: 00000000
+    m_Human:
+      data:
+        serializedVersion: 2
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node: []
+            m_ID: 
+            m_AxesArray: []
+        m_SkeletonPose:
+          data:
+            m_X: []
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.14545456
+        - 0.12121213
+        - 0.12121213
+        - 0.048484854
+        - 0.048484854
+        - 0.009696971
+        - 0.009696971
+        - 0.030303033
+        - 0.14545456
+        - 0.14545456
+        - 0.012121214
+        - 0.048484854
+        - 0.006060607
+        - 0.006060607
+        - 0.024242427
+        - 0.024242427
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.0024242427
+        - 0.0024242427
+        - 0
+        - 0
+        - 0
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray: 
+    m_HumanSkeletonReverseIndexArray: 
+    m_RootMotionBoneIndex: -1
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node: []
+        m_ID: 
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X: []
+    m_RootMotionSkeletonIndexArray: 
+  m_TOS:
+    0: 
+  m_HumanDescription:
+    serializedVersion: 3
+    m_Human: []
+    m_Skeleton: []
+    m_ArmTwist: 0.5
+    m_ForeArmTwist: 0.5
+    m_UpperLegTwist: 0.5
+    m_LegTwist: 0.5
+    m_ArmStretch: 0.05
+    m_LegStretch: 0.05
+    m_FeetSpacing: 0
+    m_GlobalScale: 1
+    m_RootMotionBoneName: 
+    m_HasTranslationDoF: 0
+    m_HasExtraRoot: 0
+    m_SkeletonHasParents: 1
 --- !u!1001 &262622402540299044
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -530,6 +671,67 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2ac40c3eafc8ba54b9ebff86470e7214, type: 3}
+--- !u!1001 &2530714857719167165
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 366313652202003452, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 1321398779}
+    - target: {fileID: 2332452421680099128, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2332452421680099128, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 2332452421680099128, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.08222853
+      objectReference: {fileID: 0}
+    - target: {fileID: 2332452421680099128, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2332452421680099128, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2332452421680099128, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2332452421680099128, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2332452421680099128, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2332452421680099128, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2332452421680099128, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8810530623294429365, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
+      propertyPath: m_Name
+      value: Mushroom
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f8d14659f1958dd45adce64f86b8b7fc, type: 3}
 --- !u!1001 &3764903198992254604
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -607,13 +809,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 532123865238269634, guid: 0f0397607696c9e418492dce8a78a010, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 2444781431486958062, guid: 0f0397607696c9e418492dce8a78a010, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.3
+      value: -9.15
       objectReference: {fileID: 0}
     - target: {fileID: 2444781431486958062, guid: 0f0397607696c9e418492dce8a78a010, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.2
+      value: -1.05
       objectReference: {fileID: 0}
     - target: {fileID: 2444781431486958062, guid: 0f0397607696c9e418492dce8a78a010, type: 3}
       propertyPath: m_LocalPosition.z
@@ -652,9 +858,13 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4750560318076672228, guid: 0f0397607696c9e418492dce8a78a010, type: 3}
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 532123865238269634, guid: 0f0397607696c9e418492dce8a78a010, type: 3}
+      insertIndex: 2
+      addedObject: {fileID: 1242790934}
   m_SourcePrefab: {fileID: 100100000, guid: 0f0397607696c9e418492dce8a78a010, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -662,6 +872,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 1285967070653264458}
   - {fileID: 6766719854245166170}
+  - {fileID: 2530714857719167165}
   - {fileID: 3764903198992254604}
   - {fileID: 538196210}
   - {fileID: 262622402540299044}
