@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEngine.Windows;
 using Input = UnityEngine.Input;
 
-public class cherry : MonoBehaviour
+public class player : MonoBehaviour
 {
     public Rigidbody2D body;
     private BoxCollider2D boxCollider;
