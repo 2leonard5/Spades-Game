@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -13,6 +14,8 @@ public class Room_Change : MonoBehaviour
 
     [SerializeField]
     private Transform spawnPoint;
+
+    public Animator Animator;
 
     private void Start()
     {
@@ -30,6 +33,15 @@ public class Room_Change : MonoBehaviour
         {
             RoomConnection.ActiveConnection = roomConnection;
             SceneManager.LoadScene(targetSceneName);
+            StartCoroutine(SceneTrans());
         }
     }
+
+    IEnumerator SceneTrans()
+    {
+        Animator.SetTrigger("FadeIn");
+        SceneManager.LoadSceneAsync(targetSceneName);
+        yield return new WaitForSeconds(0.01f);
+    }
+    
 }
