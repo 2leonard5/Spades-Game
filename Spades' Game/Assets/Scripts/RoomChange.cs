@@ -32,7 +32,6 @@ public class Room_Change : MonoBehaviour
         if (player != null)
         {
             RoomConnection.ActiveConnection = roomConnection;
-            SceneManager.LoadScene(targetSceneName);
             StartCoroutine(SceneTrans());
         }
     }
